@@ -54,7 +54,8 @@ src/
 
 ## 📸 Client Feedback
 
-<img width="1710" alt="fithub-client" src="https://github.com/user-attachments/assets/97a056c6-1951-43ce-b386-06f580793b2c" />
+<img width="1710" alt="fithub-client" src="https://github.com/user-attachments/assets/1e4f56c1-4474-43f0-bcd3-94790aa60264" />
+
 
 > "Coach Tracey's site feels motivating, clean, and to the point — just like her coaching style. It's easy to navigate and reflects her energy perfectly."  
 > — *Mock Client Review*
